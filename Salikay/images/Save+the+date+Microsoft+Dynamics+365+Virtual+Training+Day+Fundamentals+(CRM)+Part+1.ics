@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:4919648854b578226
+DTSTAMP:20230613T113621Z
+DTSTART:20230621T080000Z
+DTEND:20230621T103000Z
+SUMMARY:Save the date: Microsoft Dynamics 365 Virtual Training Day: Fundamentals (CRM) Part 1
+LOCATION:Digital Event
+DESCRIPTION:How to join the virtual training: \n\nClick the link to join: https://event.on24.com/wcc/r/4218984/4765F0D0D4FD7BE148D0C2BCC47E24F1. Please note\, this link is unique for each registrant and should not be forwarded.
+END:VEVENT
+END:VCALENDAR
